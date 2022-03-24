@@ -1,0 +1,22 @@
+[
+    {
+        "temperature": 30,
+        "windSpeed": 5.5,
+        "humidity": 100
+    },
+    {
+        "temperature": 30,
+        "windSpeed": 5.5,
+        "humidity": 100
+    },
+    {
+        "temperature": 30,
+        "windSpeed": 5.5,
+        "humidity": 100
+    },
+    {
+        "temperature": 30,
+        "windSpeed": 5.5,
+        "humidity": 100
+    }
+]
